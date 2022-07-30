@@ -137,11 +137,11 @@ body {
   line-height: 27px;
   margin-bottom: 10px;
   padding: 2px 0;
+  text-shadow: 4px 4px 5px rgba(78, 108, 255, 0.71);
 }
 @media (max-width: 544px) {
   .title {
     font-size: 18px;
-    margin-bottom: 0;
   }
 }
 
